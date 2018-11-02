@@ -1,7 +1,7 @@
 {
   "main.css": "/geo-hangman/static/css/main.a37eef66.chunk.css",
-  "main.js": "/geo-hangman/static/js/main.d3e5a03c.chunk.js",
-  "main.js.map": "/geo-hangman/static/js/main.d3e5a03c.chunk.js.map",
+  "main.js": "/geo-hangman/static/js/main.75195125.chunk.js",
+  "main.js.map": "/geo-hangman/static/js/main.75195125.chunk.js.map",
   "static/js/1.f8443bdc.chunk.js": "/geo-hangman/static/js/1.f8443bdc.chunk.js",
   "static/js/1.f8443bdc.chunk.js.map": "/geo-hangman/static/js/1.f8443bdc.chunk.js.map",
   "runtime~main.js": "/geo-hangman/static/js/runtime~main.dab5de65.js",
@@ -15,6 +15,6 @@
   "static/media/1.png": "/geo-hangman/static/media/1.66f23861.png",
   "static/css/main.a37eef66.chunk.css.map": "/geo-hangman/static/css/main.a37eef66.chunk.css.map",
   "index.html": "/geo-hangman/index.html",
-  "precache-manifest.fecd63bd7ac05be682fe39121f07ab08.js": "/geo-hangman/precache-manifest.fecd63bd7ac05be682fe39121f07ab08.js",
+  "precache-manifest.0a1d21e08ae9387f1a95c8ea7cadc850.js": "/geo-hangman/precache-manifest.0a1d21e08ae9387f1a95c8ea7cadc850.js",
   "service-worker.js": "/geo-hangman/service-worker.js"
 }

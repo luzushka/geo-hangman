@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/geo-hangman/static/media/2.10f9b3f1.png"
   },
   {
-    "revision": "d3e5a03c87b2f702b7d4",
+    "revision": "7519512508ca4bc2dd56",
     "url": "/geo-hangman/static/css/main.a37eef66.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/geo-hangman/static/media/1.66f23861.png"
   },
   {
-    "revision": "d3e5a03c87b2f702b7d4",
-    "url": "/geo-hangman/static/js/main.d3e5a03c.chunk.js"
+    "revision": "7519512508ca4bc2dd56",
+    "url": "/geo-hangman/static/js/main.75195125.chunk.js"
   },
   {
     "revision": "a3810e970250c8651cb446879de1873f",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/geo-hangman/static/media/DJB Chalk It Up.9f23b8ca.ttf"
   },
   {
-    "revision": "1c2517939ba24b41b67bfdceb5ed0c58",
+    "revision": "dfd4172d22e8552e47ffce85672d374f",
     "url": "/geo-hangman/index.html"
   }
 ];
