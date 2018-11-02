@@ -1,0 +1,20 @@
+.letter{
+    padding: 5px;
+    font-size: 20px;
+    font-family:djb;
+    border: none;
+    background: none;
+    text-decoration: underline;
+}
+
+.letter:disabled{
+    text-decoration: line-through;
+    color: gray;
+}
+
+
+@media only screen and (max-width:400px){
+    .letter{
+        font-size: 30px;
+    }
+}

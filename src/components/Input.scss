@@ -1,0 +1,20 @@
+$letterSize: 72px;
+
+#keyboard{
+    font-family: kg-sketch;
+    letter-spacing: 2px;
+    font-size: $letterSize;
+    word-wrap: break-word;
+}
+
+@font-face{
+    font-family: kg-sketch;
+    src: url('../static/fonts/KGSecondChancesSketch.ttf')
+}
+
+@media only screen and (max-width:400px){
+    #keyboard{
+        font-size: $letterSize*0.5;
+        letter-spacing: 20px;
+    }
+}
