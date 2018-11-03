@@ -2,6 +2,9 @@
 
 A geographic hangman game.
 
+[Live demo](https://luzushka.github.io/geo-hangman)
+
+
 ## Running Instructions:
 ```
 1. Clone this repo
